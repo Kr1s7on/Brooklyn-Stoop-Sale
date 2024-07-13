@@ -1,10 +1,10 @@
-# Codedex Summer Hackathon 2024
+# Brooklyn Stoop Sale
 
 The site is mainly developed on Wix Studio and this repository just contains the src files.
 
-## Track 2: Brooklyn Stoop Sale
+## Codedex Summer Hackathon 2024
 
-### Challenge
+### Track 2 Challenge
 
 💌 Create an interactive invitation to a Brooklyn Stoop Sale using HTML/CSS/JavaScript.
 
