@@ -29,3 +29,7 @@ You can view my submission entry on Codédex.
 ```txt
 https://www.codedex.io/community/hackathon/iqxmLlWuJ1hz9o6AwDPH
 ```
+
+### Snapshot
+
+<img src="https://github.com/user-attachments/assets/0da96986-5d22-4eba-a888-030124ecacb4" alt="snapshot" height="900"/>
