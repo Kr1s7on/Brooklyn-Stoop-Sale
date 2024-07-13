@@ -1,4 +1,4 @@
-# Codedex Summer Hackathon
+# Codedex Summer Hackathon 2024
 
 The site is mainly developed on Wix Studio and this repository just contains the src files.
 
